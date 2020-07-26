@@ -1,0 +1,8 @@
+.SearchBarContainer {
+  margin: auto;
+  display: flex;
+}
+
+#outlined-required {
+  margin: 5px;
+}

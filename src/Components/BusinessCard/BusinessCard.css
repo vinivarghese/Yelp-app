@@ -1,0 +1,13 @@
+.BusinessCardContainer {
+  max-width: 310px;
+  margin: auto;
+}
+.BusinessCardImage {
+  height: 200px !important;
+  max-width: 310px;
+}
+.BusinessCardDetails {
+  height: 200px;
+  overflow-y: scroll;
+  overflow-wrap: break-word;
+}
